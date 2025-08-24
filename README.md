@@ -1,5 +1,1 @@
-# primer rice
-
-# ========================
-# Configuraciones del Rice
-# ========================
+# primer Rice
